@@ -11,3 +11,11 @@
 4.
 
 ![Book2_1](https://github.com/LynXeEn/SI_2023_lab2_213137/assets/93165672/ac30487b-0639-40ca-965f-173c859e3f3a)
+
+
+5.
+
+        null|X|X
+        nonNull|null|X
+        nonNull|nonNull|nonNull
+        nonNull|nonNull|null
