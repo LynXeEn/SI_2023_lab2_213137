@@ -2,7 +2,8 @@
 
 2. 
 
-![Untitled Diagram drawio (2)](https://github.com/LynXeEn/SI_2023_lab2_213137/assets/93165672/2f233c02-f33f-401e-a2f2-e0919a61c1f8)
+![Untitled Diagram drawio (2)](https://github.com/LynXeEn/SI_2023_lab2_213137/assets/93165672/35c4dd76-a97e-478e-87d7-ad4128e4bc57)
+
 
 
 3. Цикломатска комплексност на дадениот код е 11, бидејќи има толку региони, односно 10 + 1. Може да биде пресметана и како
@@ -10,7 +11,8 @@
  
 4.
 
-![Book2_1](https://github.com/LynXeEn/SI_2023_lab2_213137/assets/93165672/ac30487b-0639-40ca-965f-173c859e3f3a)
+![Book2_1](https://github.com/LynXeEn/SI_2023_lab2_213137/assets/93165672/d86029e6-bb1a-4633-a27b-12b73def8ba0)
+
 
 Ставка 2 од табелата: барем еден од листата на users треба да има ист username и email како и user-от што се испраќа прв.
 
